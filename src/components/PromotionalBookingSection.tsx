@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { Phone, MessageSquare, Send, CheckCircle2 } from 'lucide-react';
+import { Phone, MessageSquare, CheckCircle2 } from 'lucide-react';
+
 import { COMPANY_INFO } from '../data/careData';
 import confetti from 'canvas-confetti';
 

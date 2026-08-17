@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { X, Send, Phone, CheckCircle2, Laptop, MessageSquare } from 'lucide-react';
+import { X, Phone, CheckCircle2, Laptop, MessageSquare } from 'lucide-react';
+
 
 import { COMPANY_INFO } from '../data/careData';
 import confetti from 'canvas-confetti';
